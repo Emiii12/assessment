@@ -37,4 +37,10 @@ npm start
 
 
 
+Images:
+
+![image](https://github.com/user-attachments/assets/ef873105-7914-4193-8d48-819c6b9c8d19)
+![image](https://github.com/user-attachments/assets/7894b94d-117f-4bb8-a80e-96255925f6c1)
+
+
 That's all. Enjoy the app!
