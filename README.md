@@ -13,11 +13,11 @@ It allows you to see all existing models of a specific year for the car make you
 
 1. Clone the Repository:
 
-git clone <repository-url>
+git clone {repository-url}
 
 2. Navigate to the directory
 
-cd <repository-directory>
+cd {repository-directory}
 
 3. Install and run on the directory "car-dealer-app":
 
